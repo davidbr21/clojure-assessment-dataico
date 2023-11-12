@@ -1,0 +1,5 @@
+{:deps
+ {org.clojure/data.json {:mvn/version "0.2.6"}
+  clj-time {:mvn/version "0.15.2"}}
+ :aliases {:test { :main-opts ["-m" "clojure.test"]}}
+ }
